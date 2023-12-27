@@ -1,0 +1,8 @@
+*
+
+!/Assets/
+!/Assets/Bapelkes AR/
+!/Assets/Bapelkes AR/Scripts/
+!/Assets/Bapelkes AR/Scripts/**
+
+!.gitignore
